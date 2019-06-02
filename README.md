@@ -12,4 +12,8 @@ $ git clone https://github.com/sixtysix-Team/fbbrute
 
 $ cd fbbrute
 
+$ pip install requests
+
+$ pip install mechanize
+
 $ python2 force.py
