@@ -16,4 +16,6 @@ $ pip install requests
 
 $ pip install mechanize
 
+$ pip2 install mechanize
+
 $ python2 force.py
